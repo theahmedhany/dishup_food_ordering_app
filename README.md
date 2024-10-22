@@ -36,7 +36,7 @@ Dishup is more than just a food ordering app it's a solution designed to make th
 https://github.com/user-attachments/assets/fc6e7338-96a8-4dca-8267-4d8d4fd56086
 
 
-#### Explore the application post on LinkedIn: <a target="_blank" href="*************"> Click Here. </a>
+#### Explore the application post on LinkedIn: <a target="_blank" href="https://www.linkedin.com/posts/theahmedhany_dart-flutter-dishup-activity-7254403959900020738-YMwW?utm_source=share&utm_medium=member_desktop"> Click Here. </a>
 
 -----
 
